@@ -1,0 +1,64 @@
+C:\Users\Itai\source\repos\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\bin\Debug\netcoreapp2.1\ItaiCorePlaygroundDeployed.deps.json
+C:\Users\Itai\source\repos\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\bin\Debug\netcoreapp2.1\ItaiCorePlaygroundDeployed.runtimeconfig.json
+C:\Users\Itai\source\repos\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\bin\Debug\netcoreapp2.1\ItaiCorePlaygroundDeployed.runtimeconfig.dev.json
+C:\Users\Itai\source\repos\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\bin\Debug\netcoreapp2.1\ItaiCorePlaygroundDeployed.dll
+C:\Users\Itai\source\repos\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\bin\Debug\netcoreapp2.1\ItaiCorePlaygroundDeployed.pdb
+C:\Users\Itai\source\repos\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\bin\Debug\netcoreapp2.1\ItaiCorePlaygroundDeployed.Views.dll
+C:\Users\Itai\source\repos\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\bin\Debug\netcoreapp2.1\ItaiCorePlaygroundDeployed.Views.pdb
+C:\Users\Itai\source\repos\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\obj\Debug\netcoreapp2.1\ItaiCorePlaygroundDeployed.csprojAssemblyReference.cache
+C:\Users\Itai\source\repos\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\obj\Debug\netcoreapp2.1\ItaiCorePlaygroundDeployed.csproj.CoreCompileInputs.cache
+C:\Users\Itai\source\repos\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\obj\Debug\netcoreapp2.1\ItaiCorePlaygroundDeployed.RazorAssemblyInfo.cache
+C:\Users\Itai\source\repos\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\obj\Debug\netcoreapp2.1\ItaiCorePlaygroundDeployed.RazorAssemblyInfo.cs
+C:\Users\Itai\source\repos\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\obj\Debug\netcoreapp2.1\ItaiCorePlaygroundDeployed.AssemblyInfoInputs.cache
+C:\Users\Itai\source\repos\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\obj\Debug\netcoreapp2.1\ItaiCorePlaygroundDeployed.AssemblyInfo.cs
+C:\Users\Itai\source\repos\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\obj\Debug\netcoreapp2.1\ItaiCorePlaygroundDeployed.TagHelpers.input.cache
+C:\Users\Itai\source\repos\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\obj\Debug\netcoreapp2.1\ItaiCorePlaygroundDeployed.TagHelpers.output.cache
+C:\Users\Itai\source\repos\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\obj\Debug\netcoreapp2.1\ItaiCorePlaygroundDeployed.RazorCoreGenerate.cache
+C:\Users\Itai\source\repos\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
+C:\Users\Itai\source\repos\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
+C:\Users\Itai\source\repos\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\Users\Itai\source\repos\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\Itai\source\repos\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\Itai\source\repos\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Itai\source\repos\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\Itai\source\repos\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Itai\source\repos\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\Itai\source\repos\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Itai\source\repos\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\obj\Debug\netcoreapp2.1\ItaiCorePlaygroundDeployed.RazorTargetAssemblyInfo.cache
+C:\Users\Itai\source\repos\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\obj\Debug\netcoreapp2.1\ItaiCorePlaygroundDeployed.RazorTargetAssemblyInfo.cs
+C:\Users\Itai\source\repos\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\obj\Debug\netcoreapp2.1\ItaiCorePlaygroundDeployed.Views.pdb
+C:\Users\Itai\source\repos\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\obj\Debug\netcoreapp2.1\ItaiCorePlaygroundDeployed.dll
+C:\Users\Itai\source\repos\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\obj\Debug\netcoreapp2.1\ItaiCorePlaygroundDeployed.pdb
+C:\Users\Itai\source\repos\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\obj\Debug\netcoreapp2.1\ItaiCorePlaygroundDeployed.csproj.CopyComplete
+C:\Users\Itai\Documents\Visual Studio 2015\Projects\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\bin\Debug\netcoreapp2.1\ItaiCorePlaygroundDeployed.deps.json
+C:\Users\Itai\Documents\Visual Studio 2015\Projects\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\bin\Debug\netcoreapp2.1\ItaiCorePlaygroundDeployed.runtimeconfig.json
+C:\Users\Itai\Documents\Visual Studio 2015\Projects\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\bin\Debug\netcoreapp2.1\ItaiCorePlaygroundDeployed.runtimeconfig.dev.json
+C:\Users\Itai\Documents\Visual Studio 2015\Projects\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\bin\Debug\netcoreapp2.1\ItaiCorePlaygroundDeployed.dll
+C:\Users\Itai\Documents\Visual Studio 2015\Projects\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\bin\Debug\netcoreapp2.1\ItaiCorePlaygroundDeployed.pdb
+C:\Users\Itai\Documents\Visual Studio 2015\Projects\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\bin\Debug\netcoreapp2.1\ItaiCorePlaygroundDeployed.Views.dll
+C:\Users\Itai\Documents\Visual Studio 2015\Projects\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\bin\Debug\netcoreapp2.1\ItaiCorePlaygroundDeployed.Views.pdb
+C:\Users\Itai\Documents\Visual Studio 2015\Projects\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\obj\Debug\netcoreapp2.1\ItaiCorePlaygroundDeployed.csprojAssemblyReference.cache
+C:\Users\Itai\Documents\Visual Studio 2015\Projects\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\obj\Debug\netcoreapp2.1\ItaiCorePlaygroundDeployed.csproj.CoreCompileInputs.cache
+C:\Users\Itai\Documents\Visual Studio 2015\Projects\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\obj\Debug\netcoreapp2.1\ItaiCorePlaygroundDeployed.RazorAssemblyInfo.cache
+C:\Users\Itai\Documents\Visual Studio 2015\Projects\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\obj\Debug\netcoreapp2.1\ItaiCorePlaygroundDeployed.RazorAssemblyInfo.cs
+C:\Users\Itai\Documents\Visual Studio 2015\Projects\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\obj\Debug\netcoreapp2.1\ItaiCorePlaygroundDeployed.AssemblyInfoInputs.cache
+C:\Users\Itai\Documents\Visual Studio 2015\Projects\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\obj\Debug\netcoreapp2.1\ItaiCorePlaygroundDeployed.AssemblyInfo.cs
+C:\Users\Itai\Documents\Visual Studio 2015\Projects\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\obj\Debug\netcoreapp2.1\ItaiCorePlaygroundDeployed.TagHelpers.input.cache
+C:\Users\Itai\Documents\Visual Studio 2015\Projects\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\obj\Debug\netcoreapp2.1\ItaiCorePlaygroundDeployed.TagHelpers.output.cache
+C:\Users\Itai\Documents\Visual Studio 2015\Projects\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\obj\Debug\netcoreapp2.1\ItaiCorePlaygroundDeployed.RazorCoreGenerate.cache
+C:\Users\Itai\Documents\Visual Studio 2015\Projects\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
+C:\Users\Itai\Documents\Visual Studio 2015\Projects\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
+C:\Users\Itai\Documents\Visual Studio 2015\Projects\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\Users\Itai\Documents\Visual Studio 2015\Projects\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\Itai\Documents\Visual Studio 2015\Projects\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\Itai\Documents\Visual Studio 2015\Projects\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Itai\Documents\Visual Studio 2015\Projects\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\Itai\Documents\Visual Studio 2015\Projects\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Itai\Documents\Visual Studio 2015\Projects\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\Itai\Documents\Visual Studio 2015\Projects\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Itai\Documents\Visual Studio 2015\Projects\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\obj\Debug\netcoreapp2.1\ItaiCorePlaygroundDeployed.RazorTargetAssemblyInfo.cache
+C:\Users\Itai\Documents\Visual Studio 2015\Projects\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\obj\Debug\netcoreapp2.1\ItaiCorePlaygroundDeployed.RazorTargetAssemblyInfo.cs
+C:\Users\Itai\Documents\Visual Studio 2015\Projects\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\obj\Debug\netcoreapp2.1\ItaiCorePlaygroundDeployed.Views.pdb
+C:\Users\Itai\Documents\Visual Studio 2015\Projects\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\obj\Debug\netcoreapp2.1\ItaiCorePlaygroundDeployed.dll
+C:\Users\Itai\Documents\Visual Studio 2015\Projects\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\obj\Debug\netcoreapp2.1\ItaiCorePlaygroundDeployed.pdb
+C:\Users\Itai\Documents\Visual Studio 2015\Projects\ItaiCorePlaygroundDeployed\ItaiCorePlaygroundDeployed\obj\Debug\netcoreapp2.1\ItaiCorePlaygroundDeployed.csproj.CopyComplete
